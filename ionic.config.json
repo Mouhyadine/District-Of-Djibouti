@@ -1,0 +1,7 @@
+{
+  "name": "DistrictOfDjibouti",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
